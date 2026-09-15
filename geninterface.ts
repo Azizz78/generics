@@ -8,7 +8,9 @@ const response1:Apiresponse<string>={
   data:"ladfkjaf"
 
 }
+
 console.log(response1)
+
 
 
 
